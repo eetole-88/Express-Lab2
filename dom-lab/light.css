@@ -1,0 +1,13 @@
+.light {
+  background-color: pink;
+}
+
+div {
+  background-color: darkslateblue;
+  color: white;
+  width: 150px;
+  height: 50px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+}
